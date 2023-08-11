@@ -21,13 +21,13 @@ Each row in the dataset represents a single urine sample and contains the follow
 
 Several visualizations have been generated for a comprehensive understanding of the dataset:
 
-### Antibiotic Resistance:
+##### Antibiotic Resistance:
 Stacked bar plots showing the percentage of samples resistant (R) and sensitive (S) to each antibiotic.
 
-### Resistance Genes Presence:
+##### Resistance Genes Presence:
 Bar plots representing the presence of each resistance gene across the samples.
 
-### Organism Cell Counts:
+##### Organism Cell Counts:
 Distributions of cell counts for each organism on a logarithmic scale.
 
 ## Unit Testing
