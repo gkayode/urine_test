@@ -31,4 +31,4 @@ Bar plots representing the presence of each resistance gene across the samples.
 Distributions of cell counts for each organism on a logarithmic scale.
 
 ## Unit Testing
-Unit tests have been written to ensure the accuracy and integrity of data manipulations.
+Unit tests have been written to ensure the accuracy and integrity of data manipulations. The unit tests were written and executed in the jupyter notebook for easy code review. (I'm quite aware that this against convention were unit tests are executed in python files)
